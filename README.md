@@ -57,3 +57,4 @@ This project is actively being developed, with new features being added regularl
 3. Open the main scene in Assets/Scenes
 4. Press Play in the Unity Editor to test the game
 
+![](https://github.com/robfjellin/TowerDefense/blob/main/gif.gif)
