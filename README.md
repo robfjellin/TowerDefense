@@ -16,7 +16,7 @@ This project served as a practical introduction to game development, 3D programm
 *The following features are currently in development:*
 * Unique enemy types
 * Unique attack patterns for each tower type
-* Resource management system for purchasing and upgrading towers
+* Resource management system for ~~purchasing~~ and upgrading towers
 * Additional UI elements including wave information
 * Power-up system for temporary boosts
 * Save/load functionality
