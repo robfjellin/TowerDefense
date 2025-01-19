@@ -50,6 +50,10 @@ public class Bullet : MonoBehaviour
             Damage(target);
         }
 
+        PlayerStats.Money += 15;
+
+        Debug.Log("You now have $" + PlayerStats.Money);
+
         Destroy(gameObject);
 
     }
